@@ -34,6 +34,7 @@ BuildRequires:	python3-pyparsing >= 2.1.0
 BuildRequires:	python3-stestr >= 2.0.0
 BuildRequires:	python3-testscenarios >= 0.4
 BuildRequires:	python3-testtools >= 2.2.0
+BuildRequires:	python3-tzdata >= 2022.4
 %endif
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
